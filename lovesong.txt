@@ -1,6 +1,10 @@
 loving him is like driving a new Maserati down a dead-end street   i don't have money!
 no! you do
 
+<<<<<<< HEAD
 込込込込
 
 2017/12/8
+=======
+込込込込
+>>>>>>> dc39ce934c6077ffebd7964075e303166b694e14
